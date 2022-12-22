@@ -9,7 +9,11 @@ Gosto muito da área de programação, utilizei muitos recursos da programação
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Vb.net, Java.
 
+##  Contatos 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Eliakim%20Cena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardojoseribeiro/)](https://www.linkedin.com/in/eliakimcena/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:eliakimcena@hotmail.com)](mailto:eliakimcena@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&logo=gmail&logoColor=red&link=mailto:eliakimcena@gmail.com)](mailto:eliakimcena@gmail.com)
 
 
 
